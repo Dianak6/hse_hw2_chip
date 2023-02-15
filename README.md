@@ -40,12 +40,16 @@ ENCFF000BAU_trimmed
 
 **Диаграммы Эйлера-Венна
 
+Пересечение пиков 1 реплики и ENCODE
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038428-10e5a201-9d6f-49c6-87e6-e146db6ff9e0.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038593-c33fb168-5cd1-4e69-a568-4beebc40bb38.png">
+
+Пересечение пиков 2 реплики и ENCODE
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038716-72c90d4a-5860-4eee-ba62-6a6b4558e5b5.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038863-2a5c4f33-0c25-47c3-b692-716251214329.png">
 
-
+Пересечений довольно мало, это связано с тем, что выравнивание производилось только на одну хромосому. В базе данных ENCODE пики составлены для всех хромосом, поэтому их намного больше.
