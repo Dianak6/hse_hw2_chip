@@ -38,6 +38,8 @@ ENCFF000BAU_trimmed
 
 Мы выравнивали риды на одну хромосому, которая составляет малую часть генома человека. Поэтому процент выравниваний и получился таким низким.
 
+**Диаграммы Эйлера-Венна
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038428-10e5a201-9d6f-49c6-87e6-e146db6ff9e0.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038593-c33fb168-5cd1-4e69-a568-4beebc40bb38.png">
