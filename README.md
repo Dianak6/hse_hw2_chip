@@ -16,7 +16,7 @@ ENCFF000BAU
 
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/114064027/218998632-0bdd58f4-bdf2-42c5-ab85-4de0042d5f84.png">
 
-Поэтому было произведено подрезание чтений
+Поэтому была произведена фильтрация, а также подрезались чтения
 
 ENCFF000BCU_trimmed
 
