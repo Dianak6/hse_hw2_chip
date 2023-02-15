@@ -6,15 +6,15 @@ https://colab.research.google.com/drive/1KOLEao0un7UH7sKUMmzhLYmHFQcTTFAR?usp=sh
 
 Чтения некачественные 
 
-ENCFF000BCU
+1-ая ChipSeq реплика - ENCFF000BCU
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/114064027/219004000-e39c9f6a-4d4a-4139-bc49-1d27accc7250.png"> <img width="430" alt="image" src="https://user-images.githubusercontent.com/114064027/218998511-f510658c-24b7-4840-ae86-72132d7f79a7.png">
 
-ENCFF000BCT
+2-ая ChipSeq реплика - ENCFF000BCT
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/114064027/219003755-a80ac37b-ade4-4a73-b3a5-2cbc898ea2dc.png"> <img width="430" alt="image" src="https://user-images.githubusercontent.com/114064027/218998404-669c23b6-4571-4ec3-9b06-3faf8681a436.png">
 
-ENCFF000BAU
+Контроль - ENCFF000BAU
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/114064027/219003268-c8e57a64-416b-46ca-b051-edc9b539accd.png"> <img width="430" alt="image" src="https://user-images.githubusercontent.com/114064027/218998632-0bdd58f4-bdf2-42c5-ab85-4de0042d5f84.png">
 
