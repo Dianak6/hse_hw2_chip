@@ -15,6 +15,8 @@ ENCFF000BAU
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/114064027/218998632-0bdd58f4-bdf2-42c5-ab85-4de0042d5f84.png">
 
+Поэтому было произведено подрезание чтений
+
 ENCFF000BCU_trimmed
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/114064027/218999044-5848215b-89d4-403e-8dad-18ed1ffc69c1.png">
@@ -25,6 +27,5 @@ ENCFF000BCT_trimmed
 
 ENCFF000BAU_trimmed
 
-![image](https://user-images.githubusercontent.com/114064027/218999545-f04460f8-d56c-4a40-add8-138df7c6da8d.png)
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/114064027/218999692-52178b92-3cda-4b95-b8cb-29ee5d4ba660.png">
 
-Поэтому было произведено подрезание чтений
