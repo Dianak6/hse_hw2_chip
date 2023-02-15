@@ -37,3 +37,13 @@ ENCFF000BAU_trimmed
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/114064027/219033562-a5d5d2aa-3d62-4bfe-a317-16def725cec4.png">
 
 Мы выравнивали риды на одну хромосому, которая составляет малую часть генома человека. Поэтому процент выравниваний и получился таким низким.
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038428-10e5a201-9d6f-49c6-87e6-e146db6ff9e0.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038593-c33fb168-5cd1-4e69-a568-4beebc40bb38.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038716-72c90d4a-5860-4eee-ba62-6a6b4558e5b5.png">
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/114064027/219038863-2a5c4f33-0c25-47c3-b692-716251214329.png">
+
+
