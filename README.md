@@ -2,6 +2,8 @@
 Ссылка на блокнот с кодом:
 https://colab.research.google.com/drive/1KOLEao0un7UH7sKUMmzhLYmHFQcTTFAR?usp=sharing
 
+Для исследования была выбрана клеточная линия HeLa-S3 и гистоновая метка H3K4me2.
+
 Чтения некачественные 
 
 ENCFF000BCU
