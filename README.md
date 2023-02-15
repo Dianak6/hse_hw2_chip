@@ -32,3 +32,7 @@ ENCFF000BAU_trimmed
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/114064027/219003622-3fa09e74-631b-49b3-be50-fb92fcd1804f.png"> <img width="430" alt="image" src="https://user-images.githubusercontent.com/114064027/218999692-52178b92-3cda-4b95-b8cb-29ee5d4ba660.png">
 
+Таблица со статистикой по выравниванию на 16 хромосому
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/114064027/219033562-a5d5d2aa-3d62-4bfe-a317-16def725cec4.png">
+
